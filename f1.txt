@@ -3,3 +3,6 @@ hello
 my name is kane
 # 안녕하세요
 # 반갑습니다.
+잘 지내봐요.
+say hello
+goiahjhsag
